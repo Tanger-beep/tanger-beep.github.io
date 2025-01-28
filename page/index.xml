@@ -1,47 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Example Site</title>
+        <title>Pages on SUPERCELL LIBRARAY</title>
         <link>http://localhost:1313/page/</link>
-        <description>Recent content in Pages on Example Site</description>
+        <description>Recent content in Pages on SUPERCELL LIBRARAY</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>Example Person</copyright>
+        <copyright>一个关于SUPERCELL的资料库</copyright>
         <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;p&gt;supercell,芬兰移动游戏巨头。拥有《部落冲突》《卡通农场》《海岛奇兵》《部落冲突：皇室战争》《爆裂小队》《荒野乱斗》等全球热门游戏。
+截止到2020年3月，Supercell面向全球市场推出了《部落冲突》《卡通农场》《海岛奇兵》《皇室战争》和《荒野乱斗》五款游戏。相比之下，移动游戏产品数量更多的Zynga日活跃用户约2100万，Gameloft和Glu的这项数据分别为约1900万和500万。《糖果传奇》开发商King的日活跃用户超过了1.3亿。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://supercell.com/en/games/brawlstars/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://supercell.com/en/games/brawlstars/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://supercell.com/en/games/clashroyale/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://supercell.com/en/games/clashroyale/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://supercell.com/en/games/boombeach/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://supercell.com/en/games/boombeach/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://squadbusters.supercell.com/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://squadbusters.supercell.com/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://supercell.com/en/games/clashofclans/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://supercell.com/en/games/clashofclans/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Supercell的成立理念是让游戏开发者和团队能够独立决定他们制作什么样的游戏以及他们选择如何制作这些游戏。
+十多年过去了,全球游戏诞生了5场,我们的梦想依然存在:创造让尽可能多的人玩上好几年并被永远记住的伟大游戏。
+在supercell官网&lt;a class=&#34;link&#34; href=&#34;https://supercell.com/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;了解更多&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Archives</title>
         <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Links</title>
